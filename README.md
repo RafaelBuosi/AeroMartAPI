@@ -1,5 +1,4 @@
-AeroMart
-Sistema de Gestão de Produtos desenvolvido como um CRUD Fullstack para controle de estoque.
+#AeroMart - CRUD Fullstack
 
 Tecnologias Utilizadas
 Frontend: Angular com Bootstrap
