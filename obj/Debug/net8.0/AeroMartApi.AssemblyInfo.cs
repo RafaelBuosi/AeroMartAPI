@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AeroMartApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5ea86ab0c5f395d7788d33178ab9fe45e73fc64")]
 [assembly: System.Reflection.AssemblyProductAttribute("AeroMartApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AeroMartApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
